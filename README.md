@@ -17,5 +17,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hungnn2810&show_icons=true&locale=en" alt="hungnn2810" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hungnn2810&" alt="hungnn2810" /></p>
-
-![GitHub Snake](https://raw.githubusercontent.com/hungnn2810/hungnn2810/output/github-contribution-grid-snake.svg)
