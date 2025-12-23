@@ -15,3 +15,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hungnn2810&show_icons=true&locale=en" alt="hungnn2810" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hungnn2810&" alt="hungnn2810" /></p>
+![](./profile-3d-contrib/profile-green-animate.svg)
