@@ -1,7 +1,5 @@
 # Hi 👋, I'm hungnn2810
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hungnn2810" alt="hungnn2810" /></a> </p>
-
 - 📫 How to reach me **hungnn2810@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
