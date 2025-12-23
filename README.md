@@ -18,4 +18,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hungnn2810&" alt="hungnn2810" /></p>
 
-![GitHub Snake](https://raw.githubusercontent.com/<USERNAME>/<USERNAME>/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/hungnn2810/hungnn2810/output/github-contribution-grid-snake.svg)
